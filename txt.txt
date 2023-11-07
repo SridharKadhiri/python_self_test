@@ -1,0 +1,417 @@
+Column_Name
+1. How do you create an empty list in Python?
+2. How do you create a list with initial values in Python?
+3. How do you access the first element of a list in Python?
+4. How do you access the last element of a list in Python?
+5. How do you access a specific element of a list in Python?
+6. How do you append an element to the end of a list in Python?
+7. How do you insert an element at a specific index in a list in Python?
+8. How do you remove an element from a list in Python?
+9. How do you remove the last element from a list in Python?
+10. How do you remove an element at a specific index from a list in Python?
+11. How do you check if an element is in a list in Python?
+12. How do you count the number of occurrences of an element in a list in Python?
+13. How do you find the index of the first occurrence of an element in a list in Python?
+14. How do you find the index of the last occurrence of an element in a list in Python?
+15. How do you reverse the order of a list in Python?
+16. How do you sort a list in Python?
+17. How do you sort a list in descending order in Python?
+18. How do you join two lists in Python?
+19. How do you copy a list in Python?
+20. How do you check if two lists are equal in Python?
+21. How do you iterate over a list in Python?
+22. How do you iterate over a list in reverse order in Python?
+23. How do you create a sublist from a list in Python?
+24. How do you concatenate a sublist to a list in Python?
+25. How do you find the maximum value in a list in Python?
+26. How do you find the minimum value in a list in Python?
+27. How do you find the sum of a list in Python?
+28. How do you find the average of a list in Python?
+29. How do you remove duplicates from a list in Python?
+30. How do you create a list of unique elements from two lists in Python?
+31. How do you create a list of unique elements from multiple lists in Python?
+32. How do you create a list of all combinations of elements from two lists in Python?
+33. How do you create a list of all permutations of elements from a list in Python?
+34. How do you find the intersection of two lists in Python?
+35. How do you find the union of two lists in Python?
+36. How do you find the difference between two lists in Python?
+37. How do you find the symmetric difference between two lists in Python?
+38. How do you check if a list is a subset of another list in Python?
+39. How do you check if a list is a superset of another list in Python?
+40. How do you check if two lists have any common elements in Python?
+41. How do you flatten a nested list in Python?
+42. How do you group elements in a list by a certain criterion in Python?
+43. How do you partition a list into two parts based on a condition in Python?
+44. How do you randomly shuffle the elements of a list in Python?
+45. How do you find the second largest element in a list in Python?
+46. How do you find the second smallest element in a list in Python?
+47. How do you find the kth largest element in a list in Python?
+48. How do you find the kth smallest element in a list in Python?Bottom of Form
+1. Create a tuple with three elements.
+2. Print the second element of the tuple.
+3. Create a tuple of integers and convert it to a string. Tup = (1,2,3) à (‘1’, ‘2’, ‘3’)
+4. Concatenate two tuples.
+5. Find the length of a tuple.
+6. Check if an element exists in a tuple.
+7. Iterate over a tuple and print each element.
+8. Create a tuple with one element and print its type.
+9. Create a tuple with repeated elements.
+10. Unpack a tuple into variables.
+11. Create a nested tuple.
+12. Access an element of a nested tuple.
+13. Create a tuple with mixed data types.
+14. Check the data type of each element in a tuple.
+15. Create a tuple with a single element.
+16. Compare two tuples.
+17. Return the largest element in a tuple.
+18. Return the smallest element in a tuple.
+19. Remove an element from a tuple.
+20. Reverse a tuple.
+21. Count the number of occurrences of an element in a tuple.
+22. Check if all elements in a tuple are equal.
+23. Find the index of an element in a tuple.
+24. Create a tuple from a list.
+25. Convert a tuple to a list.
+26. Convert a list of tuples to a list of strings.
+27. Concatenate a tuple and a list.
+28. Create a tuple from a string.
+29. Create a new tuple with only unique elements.
+30. Sort a tuple of numbers in descending order.
+31. Create a tuple with elements in reverse order.
+32. Swap the first and last elements of a tuple.
+33. Merge two sorted tuples into one sorted tuple.
+34. Find the second largest element in a tuple.
+35. Find the second smallest element in a tuple.
+36. Find the sum of all elements in a tuple.
+37. Multiply all elements in a tuple.
+38. Check if a tuple is empty.
+39. Check if a tuple is a subset of another tuple.
+40. Check if a tuple is a superset of another tuple.
+41. Find the common elements between two tuples.
+42. Find the uncommon elements between two tuples.
+43. Check if two tuples have any common elements.
+44. Find the difference between two tuples.
+45. Find the intersection of two tuples.
+46. Check if two tuples are disjoint.
+47. Concatenate a tuple of tuples into a single tuple.
+48. Convert a tuple of tuples to a list of lists.
+49. Find the union of two tuples. Check if two tuples are identical.
+1. What is a set in Python? What is its purpose?
+2. What is the difference between a set and a list in Python?
+3. Can a set contain duplicate values?
+4. How do you create a set in Python?
+5. How do you add an element to a set in Python?
+6. How do you remove an element from a set in Python?
+7. What happens when you try to remove an element from a set that doesn't exist?
+8. How do you check if an element is in a set in Python?
+9. How do you iterate over the elements in a set in Python?
+10. How do you find the length of a set in Python?
+11. What is the union of two sets in Python?
+12. How do you find the union of multiple sets in Python?
+13. What is the intersection of two sets in Python?
+14. How do you find the intersection of multiple sets in Python?
+15. What is the difference between two sets in Python?
+16. How do you find the difference between multiple sets in Python?
+17. What is the symmetric difference of two sets in Python?
+18. How do you find the symmetric difference of multiple sets in Python?
+19. What is a subset in Python?
+20. How do you check if one set is a subset of another in Python?
+21. What is a superset in Python?
+22. How do you check if one set is a superset of another in Python?
+23. How do you update a set in Python with another set?
+24. How do you clear a set in Python?
+25. How do you copy a set in Python?
+26. How do you remove all duplicates from a list in Python using a set?
+27. How do you remove all duplicates from a list in Python while preserving the order?
+28. How do you convert a list to a set in Python?
+29. How do you convert a set to a list in Python?
+30. How do you find the maximum and minimum values in a set in Python?
+31. How do you find the sum of all elements in a set in Python?
+32. How do you find the average of all elements in a set in Python?
+33. How do you find the median of all elements in a set in Python?
+34. How do you find the mode of all elements in a set in Python?
+35. How do you find the variance of all elements in a set in Python?
+36. How do you find the standard deviation of all elements in a set in Python?
+37. How do you find the frequency of each element in a set in Python?
+38. How do you remove all elements from a set except for a specific set of elements in Python?
+39. How do you check if two sets are equal in Python?
+40. How do you check if two sets are not equal in Python?
+41. How do you find the common elements between two sets in Python?
+42. How do you find the unique elements between two sets in Python?
+43. How do you find the difference between the common and unique elements between two sets in Python?
+44. How do you find the elements that exist in one set but not in another in Python?
+45. How do you find the elements that exist in one or more sets in Python?
+46. How do you find the elements that exist in all sets in Python?
+47. How do you check if a set is empty in Python?
+48. How do you find the largest n elements in a set in Python?
+49. How do you find the smallest n elements in a set in Python?
+   50. How do you find the nth largest or nth smallest element in a set in Python?
+1. What is a dictionary in Python?
+2. How do you create an empty dictionary in Python?
+3. How do you add a key-value pair to a dictionary in Python?
+4. How do you access a value in a dictionary using its key in Python?
+5. How do you check if a key exists in a dictionary in Python?
+6. How do you remove a key-value pair from a dictionary in Python?
+7. How do you iterate over a dictionary in Python?
+8. How do you get the number of items in a dictionary in Python?
+9. How do you copy a dictionary in Python?
+10. How do you merge two dictionaries in Python?
+11. How do you get a list of keys in a dictionary in Python?
+12. How do you get a list of values in a dictionary in Python?
+13. How do you get a list of key-value pairs in a dictionary in Python?
+14. How do you sort a dictionary by its keys in Python?
+15. How do you sort a dictionary by its values in Python?
+16. How do you create a dictionary from a list of keys and a list of values in Python?
+17. How do you create a dictionary from two lists in Python?
+18. How do you create a dictionary from a list of tuples in Python?
+19. How do you create a dictionary from a tuple of keys and a tuple of values in Python?
+20. How do you get the maximum key in a dictionary in Python?
+21. How do you get the maximum value in a dictionary in Python?
+22. How do you get the minimum key in a dictionary in Python?
+23. How do you get the minimum value in a dictionary in Python?
+24. How do you check if a value exists in a dictionary in Python?
+25. How do you get a default value for a non-existing key in a dictionary in Python?
+26. How do you clear all items in a dictionary in Python?
+27. How do you update a dictionary with another dictionary in Python?
+28. How do you create a dictionary with default values in Python?
+29. How do you create a nested dictionary in Python?
+30. How do you access a value in a nested dictionary in Python?
+31. How do you add a new key-value pair to a nested dictionary in Python?
+32. How do you remove a key-value pair from a nested dictionary in Python?
+33. How do you iterate over a nested dictionary in Python?
+34. How do you sort a nested dictionary by its keys in Python?
+35. How do you sort a nested dictionary by its values in Python?
+36. How do you convert a dictionary to a list of tuples in Python?
+37. How do you convert a dictionary to a list of keys in Python?
+38. How do you convert a dictionary to a list of values in Python?
+39. How do you convert a list of tuples to a dictionary in Python?
+   40. How do you convert two lists to a dictionary in Python?
+1. Write a function that takes a number as input and returns its square.
+2. Write a function that takes two numbers as input and returns their sum.
+3. Write a function that takes a list of numbers as input and returns their average.
+4. Write a function that takes a string as input and returns its length.
+5. Write a function that takes two strings as input and returns the concatenation of the two strings.
+6. Write a function that takes a list of strings as input and returns the concatenation of all the strings in the list.
+7. Write a function that takes a list of numbers as input and returns the sum of all the even numbers in the list.
+8. Write a function that takes a list of strings as input and returns the number of strings in the list that are longer than 5 characters.
+9. Write a function that takes a list of numbers as input and returns the sum of all the numbers that are divisible by 3 or 5.
+10. Write a function that takes a list of integers as input and returns the product of all the integers in the list.
+11. Write a function that takes a list of strings as input and returns the first string in the list that contains the letter 'a'.
+12. Write a function that takes a list of numbers as input and returns the second largest number in the list.
+13. Write a function that takes a string as input and returns True if the string is a palindrome, False otherwise.
+14. Write a function that takes a list of strings as input and returns a new list containing only the strings that start with the letter 'a'.
+15. Write a function that takes a list of numbers as input and returns the sum of the first and last numbers in the list.
+16. Write a function that takes a list of integers as input and returns a new list containing only the even numbers in the input list.
+17. Write a function that takes a list of strings as input and returns a new list containing the reverse of each string in the input list.
+18. Write a function that takes a list of integers as input and returns a new list containing the square of each integer in the input list.
+19. Write a function that takes a list of strings as input and returns the number of strings in the list that start with a vowel.
+20. Write a function that takes a list of numbers as input and returns the largest number in the list that is less than 100.
+21. Write a function that takes a list of strings as input and returns a new list containing only the strings that are palindromes.
+22. Write a function that takes a list of integers as input and returns a new list containing the integers in sorted order.
+23. Write a function that takes a string as input and returns a new string that is the reverse of the input string.
+24. Write a function that takes a list of strings as input and returns a new list containing the lengths of each string in the input list.
+25. Write a function that takes a list of numbers as input and returns a new list containing only the numbers that are perfect squares.
+26. Write a function that takes a list of strings as input and returns a new list containing only the strings that are longer than 10 characters.
+27. Write a function that takes a list of integers as input and returns a new list containing only the prime numbers in the input list.
+28. Write a function that takes a list of strings as input and returns a new list containing only the strings that contain the letter 'e'.
+29. Write a function that takes a list of numbers as input and returns the average of the numbers that are greater than 10.
+30.   Write a function that takes a list of strings as input and returns a new list containing only the strings that contain only letters (no numbers or symbols).
+31.   Write a function that takes a list of integers as input and returns a new list containing the difference between each pair of adjacent numbers in the input list.
+32.   Write a function that takes a list of strings as input and returns a new list containing only the strings that are all uppercase.
+33.   Write a function that takes a list of integers as input and returns the median value of the input list.
+34.   Write a function that takes a string as input and returns the number of times the letter 'a' appears in the string.
+35.   Write a function that takes a list of strings as input and returns a new list containing only the strings that end with the letter 's'.
+36.   Write a function that takes a list of integers as input and returns the product of all the numbers that are greater than 5 and less than 10.
+37.   Write a function that takes a list of strings as input and returns a new list containing only the strings that are all lowercase.
+38.   Write a function that takes a list of integers as input and returns the second smallest number in the list.
+39.   Write a function that takes a list of strings as input and returns a new list containing the length of each string in the input list, sorted in increasing order.
+40.   Write a function that takes a list of numbers as input and returns the difference between the largest and smallest numbers in the list.
+41.   Write a function that takes a string as input and returns True if the string contains only letters (no numbers or symbols), False otherwise.
+42.   Write a function that takes a list of integers as input and returns a new list containing only the numbers that are divisible by 7 and 9.
+43.   Write a function that takes a list of strings as input and returns a new list containing only the strings that contain at least one digit (number).
+44.   Write a function that takes a list of integers as input and returns a new list containing the difference between each pair of adjacent even numbers in the input list.
+45.   Write a function that takes a string as input and returns a new string that is the same as the input string, but with all the vowels removed.
+46.   Write a function that takes a list of strings as input and returns a new list containing the first two letters of each string in the input list.
+47.   Write a function that takes a list of integers as input and returns a new list containing the numbers in the input list that appear more than once.
+48.   Write a function that takes a list of strings as input and returns a new list containing only the strings that contain at least one uppercase letter.
+49.   Write a function that takes a list of integers as input and returns a new list containing only the numbers that are perfect cubes.
+50.   Write a function that takes a string as input and returns a new string that is the same as the input string, but with each letter replaced by its corresponding number in the alphabet (a=1, b=2, c=3, etc.).
+1. Write a lambda function that returns the square of a number.
+2. Write a lambda function that returns the sum of two numbers.
+3. Write a lambda function that returns the product of two numbers.
+4. Write a lambda function that returns the difference of two numbers.
+5. Write a lambda function that returns the modulus of two numbers.
+6. Write a lambda function that checks whether a number is even.
+7. Write a lambda function that checks whether a number is odd.
+8. Write a lambda function that checks whether a string is a palindrome.
+9. Write a lambda function that checks whether a string is all lowercase.
+10. Write a lambda function that checks whether a string is all uppercase.
+11. Write a lambda function that returns the length of a string.
+12. Write a lambda function that returns the first character of a string.
+13. Write a lambda function that returns the last character of a string.
+14. Write a lambda function that sorts a list of numbers in ascending order.
+15. Write a lambda function that sorts a list of numbers in descending order.
+16. Write a lambda function that sorts a list of strings in alphabetical order.
+17. Write a lambda function that sorts a list of strings in reverse alphabetical order.
+18. Write a lambda function that returns the maximum value in a list of numbers.
+19. Write a lambda function that returns the minimum value in a list of numbers.
+20. Write a lambda function that returns the sum of a list of numbers.
+1. Write a recursive function to calculate the sum of a list of integers.
+2. Write a recursive function to calculate the factorial of a number.
+3. Write a recursive function to calculate the nth Fibonacci number.
+4. Write a recursive function to calculate the greatest common divisor (GCD) of two numbers.
+5. Write a recursive function to calculate the least common multiple (LCM) of two numbers.
+6. Write a recursive function to reverse a string.
+7. Write a recursive function to check if a string is a palindrome.
+8. Write a recursive function to find the maximum value in a list of integers.
+9. Write a recursive function to find the minimum value in a list of integers.
+10. Write a recursive function to calculate the power of a number.
+11. Write a recursive function to flatten a nested list.
+12. Write a recursive function to calculate the sum of digits of a number.
+13. Write a recursive function to find the number of occurrences of an element in a list.
+14. Write a recursive function to merge two sorted lists.
+15. Write a recursive function to generate all possible combinations of a list of integers.
+1. Write a program that opens a file named "example.txt" and reads its contents.
+2. Write a program that opens a file named "output.txt" and writes "Hello, world!" to it.
+3. Write a program that opens a file named "output.txt" and appends "Hello, world!" to it.
+4. Write a program that opens a file named "input.txt" and copies its contents to a new file named "output.txt".
+5. Write a program that opens a file named "example.txt" and displays the number of words in it.
+6. Write a program that opens a file named "example.txt" and displays the number of lines in it.
+7. Write a program that opens a file named "example.txt" and displays the longest line in it.
+8. Write a program that opens a file named "input.txt" and replaces all occurrences of the word "hello" with "hi".
+9. Write a program that opens a file named "input.txt" and sorts its lines alphabetically, and then writes the sorted lines to a new file named "output.txt".
+10. Write a program that opens a file named "input.txt" and reads its contents, and then creates a new file named "output.txt" with the same contents in reverse order.
+11. Write a program that opens a file named "example.txt" and displays the number of characters in it.
+12. Write a program that opens a file named "example.txt" and displays the number of times a specific word appears in it.
+13. Write a program that opens a file named "input.txt" and removes all empty lines from it, and then writes the remaining lines to a new file named "output.txt".
+14. Write a program that opens a file named "input.txt" and calculates the average word length in it.
+15. Write a program that opens a file named "input.txt" and removes all occurrences of a specific word from it, and then writes the remaining lines to a new file named "output.txt".
+16. Write a program that opens a file named "input.txt" and displays the number of unique words in it.
+17. Write a program that opens a file named "example.txt" and displays the number of times each word appears in it.
+18. Write a program that opens a file named "input.txt" and removes all non-alphanumeric characters from it, and then writes the remaining lines to a new file named "output.txt".
+19. Write a program that opens a file named "input.txt" and displays the average line length in it.
+20. Write a program that opens a file named "example.txt" and replaces all occurrences of a specific word with a user input word.
+1. Create a module named "math_ops" that contains functions to add, subtract, multiply and divide two numbers.
+2. Create a package named "my_package" that contains a module named "my_module" which prints "Hello, World!" when imported.
+3. Create a module named "string_ops" that contains a function to reverse a string.
+4. Create a package named "my_package" that contains a module named "my_module" which calculates the area of a circle.
+5. Create a module named "file_ops" that contains a function to read a file and return its contents.
+6. Create a package named "my_package" that contains a module named "my_module" which prints the Fibonacci sequence up to a specified number.
+7. Create a module named "date_ops" that contains functions to get the current date and time, and to convert a date string to a datetime object.
+8. Create a package named "my_package" that contains a module named "my_module" which calculates the factorial of a number.
+9. Create a module named "list_ops" that contains a function to sort a list in ascending order.
+10. Create a package named "my_package" that contains a module named "my_module" which calculates the sum of the first n numbers.
+11. Create a module named "random_ops" that contains a function to generate a random number between two specified values.
+12. Create a package named "my_package" that contains a module named "my_module" which calculates the area of a rectangle.
+13. Create a module named "string_ops" that contains a function to count the number of vowels in a string.
+14. Create a package named "my_package" that contains a module named "my_module" which calculates the area of a triangle.
+15. Create a module named "file_ops" that contains a function to write a list of strings to a file.
+16. Create a package named "my_package" that contains a module named "my_module" which checks whether a number is prime.
+17. Create a module named "date_ops" that contains a function to calculate the difference between two dates in days.
+18. Create a package named "my_package" that contains a module named "my_module" which calculates the area of a square.
+19. Create a module named "list_ops" that contains a function to remove duplicates from a list.
+20. Create a package named "my_package" that contains a module named "my_module" which calculates the sum of a list of numbers.
+1. Write a Python program that catches a ZeroDivisionError and prints a message to the user.
+2. Write a Python function that takes a list as input and returns the first element of the list. If the list is empty, raise an IndexError.
+3. Write a Python program that uses a try-except block to handle a NameError.
+4. Write a Python program that reads a file and catches a FileNotFoundError. If the file is found, print the contents of the file.
+5. Write a Python function that takes two integers as input and returns their sum. If the input is not an integer, raise a TypeError.
+6. Write a Python program that connects to a database and catches a ConnectionError.
+7. Write a Python function that takes a string as input and returns the string in all uppercase letters. If the input is not a string, raise a TypeError.
+8. Write a Python program that reads a file and catches an IOError. If the file is found, print the contents of the file.
+9. Write a Python function that takes a list as input and returns the last element of the list. If the list is empty, raise an IndexError.
+10. Write a Python program that catches a KeyError and prints a message to the user.
+11. Write a Python function that takes a number as input and returns the square of the number. If the input is not a number, raise a TypeError.
+12. Write a Python program that catches an EOFError and prints a message to the user.
+13. Write a Python function that takes a string as input and returns the string in all lowercase letters. If the input is not a string, raise a TypeError.
+14. Write a Python program that reads a file and catches a UnicodeError. If the file is found, print the contents of the file.
+15. Write a Python function that takes a list as input and returns the length of the list. If the input is not a list, raise a TypeError.
+1. Create a Person class with attributes name and age. Write a method that prints the name and age of a person object.
+2. Create a Rectangle class with attributes width and height. Write a method that calculates the area of a rectangle object.
+3. Create a BankAccount class with attributes balance and owner. Write methods that allow a user to deposit and withdraw money from their account.
+4. Create a Car class with attributes make, model, and year. Write a method that prints the make, model, and year of a car object.
+5. Create a Dog class with attributes name, breed, and age. Write a method that prints the name, breed, and age of a dog object.
+6. Create a Student class with attributes name, id, and courses. Write a method that adds a new course to a student object's course list.
+7. Create a Book class with attributes title, author, and year_published. Write a method that prints the title, author, and year of publication of a book object.
+8. Create a Bank class with attributes name and accounts. Write a method that adds a new account to the bank's account list.
+9. Create a Shape class with a method that calculates the area of a shape object. Create subclasses Triangle, Rectangle, and Circle that inherit from Shape and define their own methods for calculating area.
+10. Create a Song class with attributes title, artist, and album. Write a method that prints the title, artist, and album of a song object.
+11. Create a Computer class with attributes brand, model, and price. Write a method that prints the brand, model, and price of a computer object.
+12. Create a Movie class with attributes title, director, and year. Write a method that prints the title, director, and year of a movie object.
+13. Create a BankCustomer class with attributes name, address, and accounts. Write a method that adds a new account to a customer's account list.
+14. Create a Animal class with a method that prints the sound that the animal makes. Create subclasses Dog, Cat, and Bird that inherit from Animal and define their own methods for making sound.
+15. Create a Person class with attributes name, age, and gender. Write a method that prints the name, age, and gender of a person object. Create a subclass Employee that inherits from Person and adds an attribute salary. Write a method that prints the salary of an employee object.
+1. Write a program that defines a class Animal with a method speak() that prints out a message. Then, create a subclass Dog and override the speak() method to bark. Finally, create an instance of the Dog class and call the speak() method.
+2. Create a class Shape with an instance variable area and a method calculate_area(). Then, create subclasses Rectangle and Triangle that override the calculate_area() method. The Rectangle class should have instance variables length and width, while the Triangle class should have instance variables base and height.
+3. Create a class Person with instance variables name and age, and a method greet() that prints a greeting message. Then, create a subclass Student with instance variables student_id and courses, and override the greet() method to print a different greeting message.
+4. Create a class Calculator with instance methods add() and subtract(). Then, create a subclass ScientificCalculator that inherits from Calculator and adds instance methods sin() and cos(). Finally, create an instance of the ScientificCalculator class and call the sin() method.
+5. Create a class Employee with instance variables name and salary, and a method get_details() that prints out the employee's details. Then, create a subclass Manager that overrides the get_details() method to print additional information about the manager.
+6. Create a class Animal with instance variables name and species, and a method move(). Then, create a subclass Bird with an additional instance variable wingspan and an overridden move() method that prints "flying". Finally, create an instance of the Bird class and call the move() method.
+7. Create a class BankAccount with instance variables balance and interest_rate, and methods deposit() and withdraw(). Then, create a subclass CheckingAccount that overrides the withdraw() method to deduct a transaction fee. Finally, create an instance of the CheckingAccount class and call the withdraw() method.
+8. Create a class Vehicle with instance variables make, model, and year, and a method drive(). Then, create a subclass Car with an additional instance variable color and an overridden drive() method that prints "driving a car". Finally, create an instance of the Car class and call the drive() method.
+9. Create a class Shape with instance variables length and width, and a method area(). Then, create subclasses Rectangle and Square that override the area() method. The Rectangle class should have an additional instance variable height, while the Square class should have only one instance variable side.
+10. Create a class Person with instance variables name and age, and a method introduce() that prints a message introducing the person. Then, create a subclass Student with an additional instance variable school and an overridden introduce() method that includes the school name.
+1. Create a decorator that prints the execution time of a function.
+2. Create a decorator that logs the input arguments and return value of a function.
+3. Create a decorator that adds a prefix to the output of a function.
+4. Create a decorator that transforms the output of a function into uppercase.
+5. Create a decorator that validates the input arguments of a function.
+6. Create a decorator that times the execution of a function and logs the result to a file.
+7. Create a decorator that validates the return value of a function.
+8. Create a decorator that adds a suffix to the output of a function.
+1. Define a class Person with a class-level variable count that keeps track of the number of instances of the class created. Implement a method get_count that returns the value of count.
+2. Create a class Rectangle with class-level variables width and height. Implement a method get_area that returns the area of the rectangle.
+3. Define a class Shape with a class-level variable count that keeps track of the number of instances of the class created. Implement a class method get_count that returns the value of count.
+4. Create a class Employee with class-level variables name and salary. Implement a static method calculate_bonus that calculates the bonus for an employee based on their salary.
+5. Define a class Vehicle with class-level variables wheels and speed. Implement a method get_max_speed that returns the maximum speed of the vehicle.
+6. Create a class BankAccount with class-level variables interest_rate and balance. Implement a method add_interest that adds interest to the account based on the interest rate.
+7. Define a class School with a class-level variable students that stores the number of students in the school. Implement a class method get_average_student_age that returns the average age of the students in the school.
+8. Create a class Book with class-level variables title, author, and publisher. Implement a static method search_by_author that returns a list of all books written by a given author.
+9. Define a class Animal with class-level variables name and species. Implement a method get_habitat that returns the habitat of the animal based on its species.
+10. Create a class Circle with class-level variables radius and pi (set to 3.14). Implement a method get_circumference that returns the circumference of the circle.
+11.   Define a class Game with class-level variables players and scoreboard. Implement a method add_player that adds a player to the game and updates the scoreboard accordingly.
+12.   Create a class Bank with class-level variables accounts and transactions. Implement a static method get_account_balance that returns the balance of a given account number.
+13.   Define a class Playlist with class-level variables songs and current_song. Implement a method add_song that adds a song to the playlist and updates the current song accordingly.
+14.   Create a class Store with class-level variables inventory and sales. Implement a static method get_product_price that returns the price of a given product.
+15.   Define a class Course with class-level variables students and assignments. Implement a method add_student that adds a student to the course and updates the assignments accordingly.
+16.   Create a class BankCard with class-level variables card_type and card_limit. Implement a static method get_card_balance that returns the available balance on a given bank card.
+17.   Define a class Playlist with class-level variables songs and current_song. Implement a class method get_song_count that returns the total number of songs in the playlist.
+18.   Create a class Store with class-level variables inventory and sales. Implement a method add_sale that updates the inventory and sales when a product is sold.
+19.   Define a class Car with class-level variables make and model. Implement a static method get_car_info that returns a string with the make and model of the car.
+20.   Create a class Bookstore with class-level variables books and book_sales. Implement a method add_book that adds a book to the bookstore and updates the book sales accordingly.
+1. Write a Python class EvenNumbers that implements an iterator which returns even numbers from 0 to a given limit n. The class should have a constructor that takes n as a parameter.
+2. Implement a Python class Squares that generates an iterator for the squares of numbers from 1 to a given limit n. The class should have a constructor that takes n as a parameter.
+3. Write a Python program that uses the zip() built-in function and a custom iterator to iterate over two lists simultaneously. Define a class MyZip that takes two lists as input and generates tuples containing elements from the two lists at corresponding positions.
+4. Implement a Python class Fibonacci that generates an iterator for the Fibonacci sequence up to a given limit n. The class should have a constructor that takes n as a parameter.
+5. Create a Python class MyRange that implements an iterator that returns numbers from a given start to a given end with a given step size. The class should have a constructor that takes start, stop, and step as parameters.
+6. Write a Python program that uses a custom iterator to iterate over a dictionary in reverse order. Define a class ReverseDict that takes a dictionary as input and generates key-value pairs in reverse order.
+7. Implement a Python class Primes that generates an iterator for prime numbers up to a given limit n. The class should have a constructor that takes n as a parameter.
+8. Write a Python program that uses a custom iterator to iterate over a string in reverse order. Define a class ReverseString that takes a string as input and generates characters in reverse order.
+9. Create a Python class MyEnumerate that implements an iterator that returns tuples containing the index and value of each element in a given list. The class should have a constructor that takes a list as a parameter.
+10. Implement a Python class Palindrome that generates an iterator for palindrome numbers up to a given limit n. The class should have a constructor that takes n as a parameter. A palindrome number is a number that remains the same when its digits are reversed.
+1. Write a Python function that accepts a NumPy array and returns the sum of all the even numbers in the array.
+2. Write a Python function that accepts two NumPy arrays and returns their dot product.
+3. Write a Python function that accepts a NumPy array and returns a new array with all the elements sorted in descending order.
+4. Write a Python function that accepts a NumPy array and returns the mean of the elements in the array.
+5. Write a Python function that accepts a NumPy array and returns the standard deviation of the elements in the array.
+6. Write a Python function that accepts a NumPy array and returns the maximum value and its index in the array.
+7. Write a Python function that accepts a NumPy array and returns a new array with only the unique elements in the original array.
+8. Write a Python function that accepts a NumPy array and returns a new array with all the elements raised to the power of two.
+9. Write a Python function that accepts a NumPy array and returns a new array with only the elements that are greater than 5.
+10. Write a Python function that accepts a NumPy array and returns a new array with the cumulative sum of the elements.
+"#Series of sales amount with inconsistent data
+[1000, 2000, 3000, 4000, '5000', '6000a', '7000b', '8000', '9000c', np.nan]1.      Use describe method and info method"
+"#Series of sales amount with inconsistent data
+[1000, 2000, 3000, 4000, '5000', '6000a', '7000b', '8000', '9000c', np.nan]2.      Find duplicate value"
+"#Series of sales amount with inconsistent data
+[1000, 2000, 3000, 4000, '5000', '6000a', '7000b', '8000', '9000c', np.nan]3.      Removing invalid values which are not numeric"
+"#Series of sales amount with inconsistent data
+[1000, 2000, 3000, 4000, '5000', '6000a', '7000b', '8000', '9000c', np.nan]4.      Handle missing values"
+"#Series of sales amount with inconsistent data
+[1000, 2000, 3000, 4000, '5000', '6000a', '7000b', '8000', '9000c', np.nan]5.      Convert into int"
+"#Series of sales amount with inconsistent data
+[1000, 2000, 3000, 4000, '5000', '6000a', '7000b', '8000', '9000c', np.nan]6.      Print the cleaned Series"
+"#Series of sales amount with inconsistent data
+[1000, 2000, 3000, 4000, '5000', '6000a', '7000b', '8000', '9000c', np.nan]7.      Find the amount greater than 5000"
+"#Series of sales amount with inconsistent data
+[1000, 2000, 3000, 4000, '5000', '6000a', '7000b', '8000', '9000c', np.nan]8.      Plot a bar graph"
